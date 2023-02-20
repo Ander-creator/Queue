@@ -1,3 +1,3 @@
 # Queue
-Queue Data Struct Implemantation - availeable commands: push, pop, show and end.
+Queue Data Struct Implemantation - available commands: push, pop, show and end.
 
